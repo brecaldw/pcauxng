@@ -1,0 +1,488 @@
+Age,Gender,Ethnicity,Ethnicity_Elab,EnglishNativeLang,BPNSF_AS1,BPNSF_AF1,BPNSF_RS1,BPNSF_RF1,BPNSF_CS1,BPNSF_CF1
+20,Female,White,NA,Yes,4,2,4,2,4,1
+19,Female,White,NA,Yes,5,2,5,3,4,1
+20,Male,White,NA,Yes,3,4,4,2,3,3
+18,Female,White,NA,Yes,4,3,4,1,4,1
+18,Female,White,NA,Yes,4,3,4,4,4,2
+23,Male,White,NA,Yes,2,3,3,4,2,4
+19,Male,White,NA,Yes,3,4,4,3,4,2
+19,Male,Asian/Pacific Islander,NA,Yes,4,3,4,1,5,2
+18,Male,African American,NA,Yes,3,3,3,1,5,3
+18,Female,Latino/Hispanic,NA,Yes,4,2,5,2,5,2
+18,Female,White,NA,Yes,4,3,5,3,4,4
+18,Female,Asian/Pacific Islander,NA,Yes,3,3,5,3,4,2
+20,Male,Asian/Pacific Islander,NA,No,3,4,4,2,4,3
+19,Female,White,NA,Yes,5,1,5,1,5,2
+18,Female,White,NA,Yes,4,3,5,1,4,2
+18,Male,White,NA,Yes,4,3,4,3,4,4
+19,Female,White,NA,Yes,4,3,4,1,5,3
+22,Male,White,NA,Yes,4,1,4,1,4,2
+18,Male,White,NA,Yes,4,2,4,1,4,2
+18,Female,White,NA,Yes,4,4,5,3,3,5
+18,Female,White,NA,Yes,3,2,5,1,5,1
+21,Male,White,NA,Yes,3,4,3,3,4,4
+19,Male,White,NA,Yes,4,2,4,2,4,1
+18,Male,Asian/Pacific Islander,NA,Yes,3,4,3,3,3,4
+19,Male,White,NA,Yes,3,4,3,3,4,4
+19,Male,White,NA,Yes,3,2,4,1,3,2
+21,Male,White,NA,Yes,4,1,4,2,4,2
+22,Female,White,NA,Yes,4,2,4,2,4,4
+18,Male,White,NA,Yes,5,2,4,3,5,1
+19,Female,White,NA,Yes,1,3,3,5,3,5
+18,Female,White,NA,Yes,5,5,2,5,4,4
+20,Female,White,NA,Yes,4,2,5,3,5,1
+18,Male,White,NA,Yes,4,2,3,1,4,1
+18,Male,White,NA,Yes,3,2,5,1,4,3
+21,Male,White,NA,Yes,5,2,5,1,3,3
+18,Female,White,NA,Yes,4,2,4,3,4,4
+18,Male,White,NA,Yes,4,1,4,1,4,2
+18,Female,White,NA,Yes,4,4,2,5,3,5
+19,Male,White,NA,Yes,5,4,5,3,4,3
+19,Female,White,NA,Yes,5,2,5,1,5,1
+18,Male,White,NA,Yes,4,2,4,1,5,2
+19,Female,White,NA,Yes,4,4,4,2,4,3
+21,Male,White,NA,Yes,3,5,4,2,3,4
+20,Female,White,NA,Yes,3,2,4,1,3,2
+19,Female,White,NA,Yes,5,2,5,1,5,1
+19,Male,White,NA,Yes,2,4,5,5,3,4
+19,Male,White,NA,Yes,3,2,4,3,2,4
+20,Male,Asian/Pacific Islander,NA,No,3,4,3,2,4,2
+19,Male,Asian/Pacific Islander,NA,Yes,4,3,5,2,4,2
+19,Female,White,NA,Yes,4,2,4,2,4,3
+19,Male,White,NA,Yes,4,2,5,2,5,1
+19,Male,White,NA,Yes,3,4,3,2,4,2
+18,Male,White,NA,Yes,3,5,4,2,2,5
+18,Male,White,NA,Yes,2,4,4,1,2,3
+18,Male,White,NA,Yes,5,2,5,1,4,2
+19,Male,White,NA,No,4,2,2,2,3,3
+18,Female,White,NA,Yes,4,4,3,3,3,3
+19,Male,White,NA,Yes,4,4,5,1,5,2
+19,Male,White,NA,Yes,3,4,4,1,3,2
+18,Male,White,NA,Yes,4,3,5,2,5,1
+18,Male,White,NA,Yes,3,4,3,3,5,1
+18,Male,White,NA,Yes,5,1,5,1,5,1
+18,Female,White,NA,Yes,3,4,4,1,4,2
+19,Female,White,NA,Yes,3,4,3,2,3,3
+18,Female,White,NA,Yes,4,3,5,4,4,4
+19,Male,Asian/Pacific Islander,NA,Yes,4,1,5,5,5,1
+18,Female,Latino/Hispanic,NA,Yes,3,3,3,2,3,3
+18,Male,White,NA,Yes,4,2,4,2,4,2
+18,Female,White,NA,Yes,4,5,4,1,5,2
+18,Male,African American,NA,Yes,5,5,5,1,5,1
+20,Male,White,NA,Yes,2,4,5,1,4,1
+18,Male,White,NA,Yes,4,4,3,4,4,3
+20,Male,White,NA,Yes,3,4,4,3,3,4
+20,Male,Asian/Pacific Islander,NA,Yes,4,3,5,1,5,3
+19,Male,White,NA,Yes,4,4,5,1,5,1
+19,Male,White,NA,Yes,3,4,5,2,5,1
+20,Female,Asian/Pacific Islander,NA,Yes,5,1,4,2,3,5
+18,Female,White,NA,Yes,4,2,4,1,4,4
+21,Female,White,NA,Yes,3,3,4,4,2,4
+21,Male,White,NA,Yes,4,5,4,1,4,4
+19,Male,White,NA,Yes,4,2,4,3,4,4
+19,Male,White,NA,Yes,4,4,4,4,4,4
+19,Female,White,NA,Yes,2,2,2,2,4,3
+20,Male,White,NA,Yes,4,2,4,2,4,1
+19,Male,White,NA,Yes,4,4,4,3,2,3
+18,Male,White,NA,Yes,4,2,5,1,4,3
+19,Male,White,NA,Yes,4,2,5,1,4,2
+19,Female,White,NA,Yes,4,2,5,2,4,2
+19,Female,White,NA,Yes,5,3,5,1,4,2
+20,Female,White,NA,Yes,3,3,4,2,3,3
+19,Male,Asian/Pacific Islander,NA,Yes,3,3,5,2,5,2
+19,Male,White,NA,Yes,5,4,4,2,5,1
+18,Male,African American,NA,Yes,4,5,5,1,4,3
+18,Male,African American,NA,Yes,5,2,5,1,5,2
+21,Male,White,NA,Yes,3,2,2,2,3,3
+20,Female,White,NA,Yes,4,4,4,4,4,2
+20,Female,African American,NA,Yes,5,2,5,1,5,3
+21,Male,White,NA,Yes,3,4,4,1,4,1
+19,Male,White,NA,Yes,3,2,4,1,4,2
+20,Female,White,NA,Yes,4,2,4,2,4,2
+18,Female,Native American,NA,Yes,4,5,5,4,3,5
+21,Male,White,NA,Yes,5,3,3,2,4,2
+21,Female,White,NA,Yes,4,4,4,2,4,4
+19,Male,White,NA,Yes,4,4,3,4,3,3
+18,Female,White,NA,Yes,4,2,4,3,4,1
+18,Male,White,NA,Yes,4,4,5,1,5,1
+19,Female,White,NA,Yes,4,3,5,1,4,4
+21,Male,African American,NA,Yes,3,2,5,1,4,2
+40,Male,White,NA,Yes,4,3,4,2,5,1
+19,Female,White,NA,Yes,4,2,4,1,5,1
+18,Male,Asian/Pacific Islander,NA,Yes,5,4,5,4,5,3
+20,Female,White,NA,Yes,5,3,5,2,4,2
+18,Male,Asian/Pacific Islander,NA,No,3,5,2,5,2,5
+18,Female,White,NA,Yes,4,2,5,1,5,1
+19,Male,White,NA,Yes,4,3,4,1,4,2
+19,Female,White,NA,Yes,2,5,3,5,1,5
+20,Male,White,NA,Yes,3,2,4,3,5,1
+19,Male,White,NA,Yes,4,5,5,5,3,5
+19,Male,White,NA,Yes,2,2,4,1,4,3
+21,Male,White,NA,Yes,2,2,4,2,4,2
+18,Female,Multi-Racial,NA,Yes,5,3,4,2,4,3
+18,Male,White,NA,Yes,4,2,5,1,4,2
+19,Female,White,NA,Yes,4,4,2,3,4,4
+21,Male,White,NA,Yes,4,1,4,1,4,3
+18,Male,White,NA,Yes,3,3,4,2,5,2
+18,Male,White,NA,Yes,5,2,5,1,5,1
+20,Female,White,NA,Yes,3,4,5,1,4,1
+18,Male,White,NA,Yes,3,2,4,3,4,2
+19,Female,White,NA,Yes,2,3,1,5,4,3
+19,Male,White,NA,Yes,3,3,3,3,3,3
+19,Male,White,NA,Yes,3,2,4,2,4,2
+19,Female,White,NA,Yes,4,2,5,2,4,2
+19,Male,White,NA,Yes,5,2,5,1,5,1
+18,Male,White,NA,Yes,4,3,4,1,4,1
+19,Male,White,NA,Yes,2,4,5,2,4,3
+18,Male,White,NA,Yes,4,3,5,2,5,2
+18,Female,Latino/Hispanic,NA,Yes,3,3,4,2,4,4
+20,Male,White,NA,Yes,4,1,4,1,4,2
+18,Male,Asian/Pacific Islander,NA,Yes,4,2,5,2,4,2
+21,Female,White,NA,Yes,3,2,4,2,3,2
+20,Male,White,NA,Yes,5,5,5,3,4,3
+18,Female,White,NA,Yes,4,3,3,4,5,4
+20,Female,White,NA,Yes,3,3,2,4,3,4
+19,Female,White,NA,Yes,1,5,1,5,1,5
+19,Female,White,NA,Yes,5,1,5,1,4,3
+21,Female,White,NA,Yes,4,2,2,2,4,3
+22,Female,White,NA,Yes,5,1,5,1,5,1
+19,Male,White,NA,Yes,4,3,4,3,3,4
+19,Male,White,NA,Yes,2,4,4,2,4,2
+19,Male,Asian/Pacific Islander,NA,Yes,4,4,3,3,4,4
+18,Male,White,NA,Yes,4,5,4,1,4,3
+20,Male,White,NA,Yes,2,2,3,2,2,2
+19,Male,White,NA,Yes,4,3,4,2,4,2
+18,Female,Asian/Pacific Islander,NA,Yes,3,2,5,1,4,2
+18,Female,White,NA,Yes,4,2,5,1,5,2
+19,Male,White,NA,Yes,4,5,2,2,3,4
+19,Male,White,NA,Yes,4,5,5,1,4,2
+19,Female,White,NA,Yes,4,2,5,1,4,2
+20,Female,White,NA,Yes,4,2,4,1,3,2
+19,Male,White,NA,Yes,3,3,3,3,3,3
+19,Male,Asian/Pacific Islander,NA,Yes,2,2,4,2,4,2
+19,Male,White,NA,Yes,5,2,5,1,5,1
+18,Female,White,NA,Yes,4,4,4,3,2,5
+21,Male,White,NA,Yes,3,4,4,2,4,2
+18,Female,Latino/Hispanic,NA,Yes,4,5,5,1,2,5
+19,Male,White,NA,Yes,5,1,1,5,1,5
+18,Female,White,NA,Yes,5,3,4,1,4,1
+21,Male,White,NA,Yes,3,4,4,1,3,3
+19,Female,White,NA,Yes,4,5,3,4,4,4
+21,Female,White,NA,Yes,2,4,5,1,5,2
+18,Female,White,NA,Yes,5,1,5,1,5,1
+19,Male,Latino/Hispanic,NA,Yes,2,5,2,5,3,5
+18,Female,White,NA,Yes,4,2,4,2,4,3
+18,Male,White,NA,Yes,4,3,4,2,4,2
+19,Male,White,NA,Yes,4,2,5,3,5,2
+19,Male,African American,NA,Yes,4,2,3,1,3,4
+19,Male,White,NA,Yes,3,3,4,1,3,4
+19,Male,White,NA,Yes,5,2,5,1,5,3
+18,Male,Asian/Pacific Islander,NA,Yes,3,5,3,2,2,5
+19,Male,White,NA,Yes,3,2,4,3,3,2
+18,Female,White,NA,Yes,3,4,4,4,3,3
+24,Male,Latino/Hispanic,NA,Yes,5,3,5,1,4,2
+20,Male,Asian/Pacific Islander,NA,Yes,4,3,4,2,4,1
+20,Female,Latino/Hispanic,NA,Yes,4,4,5,1,4,2
+19,Female,White,NA,Yes,4,4,4,2,4,2
+18,Female,White,NA,Yes,5,2,4,2,5,1
+19,Male,White,NA,Yes,3,4,4,4,3,3
+19,Male,White,NA,Yes,4,2,4,1,5,2
+18,Female,White,NA,Yes,5,2,3,3,5,2
+20,Female,White,NA,Yes,4,4,4,2,4,3
+20,Male,White,NA,Yes,4,4,5,1,5,1
+19,Male,White,NA,Yes,3,3,2,1,4,3
+20,Male,White,NA,Yes,4,2,5,1,4,2
+20,Female,White,NA,Yes,3,3,4,2,3,3
+20,Male,White,NA,Yes,5,3,4,1,5,1
+23,Male,White,NA,Yes,4,2,4,2,4,3
+21,Male,White,NA,Yes,3,4,3,4,5,3
+18,Female,White,NA,Yes,2,5,5,3,2,3
+21,Male,White,NA,Yes,3,3,4,4,3,3
+21,Male,White,NA,Yes,5,3,4,1,4,2
+18,Male,White,NA,Yes,5,3,3,1,5,3
+18,Male,White,NA,Yes,2,3,4,2,4,2
+21,Male,White,NA,Yes,4,2,4,2,4,2
+19,Male,White,NA,Yes,4,3,4,2,4,3
+18,Male,Asian/Pacific Islander,NA,No,3,3,3,3,3,3
+20,Male,White,NA,Yes,3,3,5,2,3,4
+18,Male,White,NA,Yes,4,4,4,2,4,2
+18,Female,White,NA,Yes,3,4,4,3,4,3
+20,Female,White,NA,Yes,4,1,4,1,4,2
+18,Female,White,NA,Yes,5,1,5,2,4,1
+20,Male,White,NA,Yes,3,4,4,3,3,4
+21,Female,White,NA,Yes,4,2,4,2,4,1
+19,Male,Asian/Pacific Islander,NA,No,3,3,3,3,3,3
+19,Male,Asian/Pacific Islander,NA,Yes,2,4,3,1,3,4
+19,Male,White,NA,Yes,4,2,5,1,5,1
+19,Male,White,NA,Yes,3,4,5,2,3,4
+18,Male,Asian/Pacific Islander,NA,No,5,3,5,2,5,1
+19,Female,Asian/Pacific Islander,NA,No,3,4,3,2,3,5
+20,Female,Other,Asian,No,3,3,4,2,5,2
+18,Female,White,NA,Yes,4,4,3,4,3,2
+18,Female,White,NA,Yes,5,3,5,1,4,5
+20,Female,Asian/Pacific Islander,NA,No,4,4,3,3,3,4
+22,Female,White,NA,Yes,4,1,5,1,5,1
+18,Female,White,NA,Yes,4,5,4,4,4,4
+22,Male,Latino/Hispanic,NA,No,2,4,4,3,4,2
+25,Male,Asian/Pacific Islander,NA,No,2,4,5,2,4,2
+18,Female,White,NA,Yes,5,2,3,2,3,2
+19,Female,White,NA,Yes,4,3,3,3,4,2
+19,Male,White,NA,Yes,5,1,4,2,5,1
+18,Female,White,NA,Yes,2,5,4,2,3,2
+19,Female,White,NA,Yes,3,4,3,4,3,4
+21,Male,White,NA,Yes,4,2,4,1,5,1
+19,Female,White,NA,Yes,4,3,4,1,4,2
+18,Female,White,NA,Yes,5,4,5,4,4,4
+24,Male,White,NA,Yes,4,3,5,3,4,3
+18,Female,White,NA,Yes,2,5,5,1,4,1
+18,Female,White,NA,Yes,4,2,4,1,3,3
+19,Female,White,NA,Yes,4,3,5,1,5,3
+23,Female,Multi-Racial,NA,Yes,2,4,3,2,3,4
+19,Female,White,NA,Yes,3,4,5,1,5,3
+21,Male,White,NA,Yes,4,2,4,2,5,1
+18,Female,White,NA,Yes,2,4,3,1,3,4
+18,Female,Asian/Pacific Islander,NA,No,3,3,4,3,3,2
+21,Female,White,NA,Yes,4,3,4,2,4,2
+18,Male,White,NA,Yes,4,3,2,1,4,2
+20,Female,White,NA,Yes,3,4,4,3,3,4
+19,Male,White,NA,Yes,4,4,4,1,3,2
+19,Female,White,NA,Yes,4,2,4,3,3,4
+18,Female,White,NA,Yes,3,4,3,4,3,4
+23,Female,Asian/Pacific Islander,NA,No,3,3,4,3,4,4
+28,Male,White,NA,Yes,4,3,4,2,4,3
+21,Female,White,NA,Yes,5,2,5,2,4,2
+18,Female,White,NA,Yes,4,2,4,2,4,2
+19,Female,Multi-Racial,NA,Yes,5,4,4,4,5,1
+18,Male,Asian/Pacific Islander,NA,Yes,3,5,5,1,3,5
+24,Male,White,NA,Yes,4,3,4,2,4,2
+19,Female,White,NA,Yes,3,5,4,2,4,4
+19,Female,White,NA,Yes,4,1,5,2,5,1
+21,Male,White,NA,Yes,4,4,4,2,4,2
+19,Male,White,NA,Yes,5,4,4,1,4,2
+18,Female,White,NA,Yes,4,3,4,2,4,2
+19,Male,White,NA,Yes,2,3,4,2,3,1
+18,Male,White,NA,Yes,3,4,3,2,2,5
+22,Male,White,NA,Yes,3,4,4,2,4,2
+18,Female,White,NA,Yes,3,2,4,3,2,4
+21,Female,White,NA,Yes,3,2,4,2,4,2
+19,Female,White,NA,Yes,2,2,4,2,4,2
+18,Female,Latino/Hispanic,NA,Yes,3,2,5,2,3,1
+19,Male,African American,NA,Yes,3,4,3,3,4,3
+24,Female,Asian/Pacific Islander,NA,No,4,3,3,3,4,3
+20,Female,White,NA,Yes,4,4,5,1,5,2
+21,Female,White,NA,Yes,2,5,3,3,1,5
+18,Male,White,NA,Yes,4,3,4,2,5,1
+21,Male,White,NA,Yes,3,3,3,3,3,4
+21,Male,White,NA,Yes,3,3,3,3,3,3
+21,Female,Asian/Pacific Islander,NA,No,3,2,4,3,5,4
+20,Female,White,NA,Yes,4,4,5,2,4,3
+19,Female,White,NA,Yes,1,5,2,5,5,5
+19,Female,White,NA,Yes,4,3,4,2,5,1
+24,Male,Asian/Pacific Islander,NA,No,5,2,2,3,3,2
+18,Female,White,NA,Yes,5,3,5,3,3,5
+18,Female,White,NA,Yes,5,4,5,1,4,2
+18,Female,White,NA,Yes,3,2,4,1,3,2
+22,Male,White,NA,Yes,3,2,5,1,3,2
+19,Female,White,NA,Yes,3,3,4,3,3,5
+22,Male,White,NA,Yes,2,1,1,1,2,2
+18,Male,White,NA,Yes,2,4,4,2,3,3
+19,Female,White,NA,Yes,4,2,5,3,3,3
+19,Female,White,NA,Yes,4,3,5,1,4,4
+18,Female,White,NA,Yes,4,2,5,4,5,2
+21,Female,Asian/Pacific Islander,NA,No,4,4,5,3,5,3
+23,Male,White,NA,Yes,4,2,4,2,4,3
+20,Female,White,NA,Yes,4,2,5,2,4,3
+25,Male,Asian/Pacific Islander,NA,Yes,2,4,5,2,4,2
+18,Female,White,NA,Yes,4,3,4,2,5,2
+19,Female,White,NA,Yes,4,2,5,1,4,3
+20,Male,Asian/Pacific Islander,NA,No,4,2,5,1,5,1
+18,Female,White,NA,Yes,5,4,4,1,5,2
+19,Male,White,NA,Yes,5,2,5,2,4,5
+20,Male,White,NA,Yes,1,5,3,5,3,1
+18,Female,White,NA,Yes,4,3,5,1,4,1
+19,Male,White,NA,Yes,4,4,5,3,4,3
+20,Female,White,NA,Yes,4,4,5,1,4,2
+23,Female,Asian/Pacific Islander,NA,Yes,1,4,4,1,2,5
+18,Male,White,NA,Yes,5,2,4,1,4,2
+19,Female,White,NA,Yes,3,4,4,4,3,4
+19,Male,White,NA,Yes,3,2,4,3,4,2
+20,Female,Multi-Racial,NA,Yes,3,2,5,1,4,2
+20,Male,White,NA,Yes,5,4,4,1,5,2
+19,Female,White,NA,Yes,2,2,4,2,4,4
+20,Female,White,NA,Yes,4,2,4,2,4,1
+20,Female,White,NA,Yes,2,5,3,3,4,2
+21,Female,Asian/Pacific Islander,NA,No,3,4,4,4,3,3
+19,Female,White,NA,Yes,3,2,4,2,4,3
+18,Male,Latino/Hispanic,NA,No,3,4,3,3,4,2
+22,Male,Asian/Pacific Islander,NA,No,2,2,3,4,5,1
+20,Female,White,NA,Yes,2,4,4,3,4,4
+22,Male,White,NA,Yes,3,3,5,1,3,2
+20,Male,White,NA,Yes,5,2,5,1,5,1
+24,Male,White,NA,Yes,2,4,4,2,4,2
+20,Female,White,NA,Yes,4,3,3,3,3,3
+19,Male,White,NA,Yes,4,3,4,2,4,2
+19,Female,White,NA,Yes,3,5,1,5,2,5
+24,Male,Asian/Pacific Islander,NA,No,4,2,3,3,3,4
+18,Female,Latino/Hispanic,NA,No,5,2,5,3,5,5
+18,Female,Latino/Hispanic,NA,No,4,2,5,1,1,3
+20,Female,White,NA,Yes,4,2,5,1,3,3
+19,Female,Other,African American and Caucasion,Yes,4,3,4,2,4,3
+22,Female,Asian/Pacific Islander,NA,No,3,2,2,3,4,2
+18,Female,White,NA,Yes,3,5,5,1,2,4
+22,Female,Asian/Pacific Islander,NA,No,3,2,5,1,4,2
+19,Female,White,NA,Yes,2,4,4,2,2,4
+19,Male,White,NA,Yes,4,2,4,1,5,2
+18,Female,White,NA,Yes,4,3,3,2,5,1
+20,Female,White,NA,Yes,4,3,5,1,5,1
+20,Female,White,NA,Yes,5,1,4,1,4,2
+21,Female,White,NA,Yes,4,2,3,3,4,2
+22,Male,White,NA,Yes,4,2,5,1,4,1
+21,Female,White,NA,Yes,4,5,4,2,2,2
+18,Male,Asian/Pacific Islander,NA,Yes,3,3,3,3,3,3
+18,Female,Asian/Pacific Islander,NA,Yes,5,5,5,2,5,1
+18,Female,Multi-Racial,NA,Yes,4,2,4,1,4,3
+22,Male,Multi-Racial,NA,Yes,4,4,4,3,3,3
+21,Male,White,NA,Yes,5,2,5,1,5,1
+18,Female,White,NA,Yes,4,1,2,5,5,5
+20,Female,White,NA,Yes,4,3,5,2,3,3
+19,Female,White,NA,Yes,4,2,4,2,4,2
+20,Male,White,NA,Yes,4,2,5,1,4,2
+18,Male,White,NA,Yes,3,4,3,4,3,4
+25,Male,White,NA,Yes,3,4,5,2,5,2
+19,Male,Asian/Pacific Islander,NA,No,3,3,3,3,3,3
+19,Male,Asian/Pacific Islander,NA,Yes,3,4,2,3,4,2
+21,Male,White,NA,Yes,3,3,4,2,4,3
+19,Female,White,NA,Yes,4,3,3,4,4,4
+18,Female,White,NA,Yes,4,3,5,1,1,1
+21,Male,Asian/Pacific Islander,NA,No,3,3,2,3,4,2
+18,Female,White,NA,Yes,5,1,5,1,5,1
+19,Female,White,NA,Yes,5,2,4,2,5,2
+26,Male,White,NA,Yes,4,2,4,2,5,1
+18,Female,White,NA,Yes,4,3,4,2,4,3
+20,Male,White,NA,Yes,4,3,5,2,5,2
+18,Male,White,NA,Yes,4,5,3,1,3,5
+22,Female,White,NA,Yes,3,2,4,2,4,2
+18,Male,White,NA,Yes,4,4,5,1,4,1
+22,Male,White,NA,Yes,3,3,5,1,4,3
+19,Female,White,NA,Yes,3,3,4,3,4,3
+20,Female,Asian/Pacific Islander,NA,No,4,2,4,1,5,3
+19,Female,Multi-Racial,NA,Yes,2,4,2,4,3,4
+20,Female,White,NA,Yes,3,4,5,4,5,3
+23,Male,White,NA,Yes,3,2,3,4,3,4
+19,Female,White,NA,Yes,3,5,5,1,5,2
+18,Male,White,NA,Yes,3,2,5,1,3,2
+18,Female,White,NA,Yes,5,4,5,1,5,3
+18,Male,White,NA,Yes,5,2,5,3,3,4
+19,Male,White,NA,Yes,3,5,5,1,5,2
+18,Female,White,NA,Yes,3,3,4,1,4,2
+20,Female,White,NA,Yes,5,2,5,2,4,3
+21,Female,White,NA,Yes,3,4,4,3,4,2
+18,Female,White,NA,Yes,4,1,5,2,4,1
+21,Male,Asian/Pacific Islander,NA,No,3,2,4,2,4,2
+18,Male,White,NA,Yes,3,4,5,1,4,2
+20,Male,White,NA,Yes,5,3,5,1,5,2
+21,Female,White,NA,Yes,4,2,4,2,4,2
+21,Female,Asian/Pacific Islander,NA,No,4,5,1,4,2,4
+18,Female,Latino/Hispanic,NA,Yes,3,3,3,3,2,5
+18,Female,White,NA,Yes,3,2,4,2,4,4
+18,Female,White,NA,Yes,5,4,5,1,3,2
+20,Female,White,NA,Yes,3,4,4,3,3,3
+24,Male,Asian/Pacific Islander,NA,No,4,4,4,2,4,2
+20,Male,White,NA,Yes,3,4,1,3,4,5
+19,Female,White,NA,Yes,4,3,5,2,3,3
+20,Female,White,NA,Yes,4,3,5,1,4,2
+18,Female,White,NA,Yes,4,3,4,3,4,4
+18,Female,White,NA,Yes,3,4,4,4,4,5
+19,Female,White,NA,Yes,4,3,5,1,4,2
+19,Female,Latino/Hispanic,NA,Yes,3,4,3,5,2,5
+19,Female,White,NA,Yes,2,4,4,2,3,4
+18,Male,White,NA,Yes,2,5,5,2,2,4
+19,Female,White,NA,Yes,5,1,4,1,3,4
+22,Female,White,NA,Yes,4,3,4,3,4,2
+18,Female,White,NA,Yes,4,3,4,3,4,3
+18,Female,White,NA,Yes,4,4,4,4,5,4
+20,Female,White,NA,Yes,3,5,5,1,4,2
+21,Male,White,NA,Yes,4,4,2,4,4,3
+22,Male,White,NA,Yes,4,3,5,1,3,2
+20,Female,White,NA,Yes,2,4,4,1,2,4
+20,Female,White,NA,Yes,5,2,5,1,5,1
+20,Male,White,NA,Yes,4,3,5,1,4,2
+19,Male,White,NA,Yes,4,4,3,2,4,3
+21,Male,White,NA,Yes,4,3,3,2,4,3
+18,Female,White,NA,Yes,4,3,4,2,4,2
+18,Female,Latino/Hispanic,NA,Yes,2,5,5,1,3,2
+18,Female,White,NA,Yes,2,5,2,4,4,3
+19,Male,White,NA,Yes,4,2,4,2,5,1
+18,Female,White,NA,Yes,5,2,5,1,4,2
+19,Female,White,NA,Yes,4,2,5,1,4,2
+19,Male,White,NA,Yes,5,5,5,1,4,3
+19,Female,White,NA,Yes,4,2,4,3,4,2
+18,Male,Latino/Hispanic,NA,Yes,3,3,4,1,4,3
+22,Male,White,NA,Yes,2,2,3,3,3,4
+22,Male,White,NA,Yes,4,3,4,2,4,3
+24,Male,Asian/Pacific Islander,NA,No,3,3,3,3,4,3
+19,Male,White,NA,Yes,4,4,4,4,4,4
+18,Female,African American,NA,Yes,5,2,5,3,4,5
+20,Male,White,NA,Yes,5,2,5,1,4,3
+23,Female,White,NA,Yes,4,3,3,3,3,2
+18,Female,White,NA,Yes,5,2,5,1,5,1
+19,Female,White,NA,Yes,3,3,2,4,2,4
+18,Female,White,NA,Yes,2,5,3,3,2,5
+18,Male,White,NA,Yes,5,3,5,2,5,2
+22,Female,White,NA,Yes,5,1,5,2,5,1
+18,Female,White,NA,Yes,4,4,5,2,5,1
+19,Female,White,NA,Yes,5,2,5,1,5,2
+20,Male,White,NA,Yes,2,2,3,3,4,5
+18,Female,White,NA,Yes,4,3,3,4,4,3
+20,Male,White,NA,Yes,3,3,4,2,4,2
+21,Male,White,NA,Yes,4,3,4,1,4,2
+18,Female,White,NA,Yes,4,3,4,3,4,3
+22,Male,White,NA,Yes,4,4,5,1,4,2
+19,Male,African American,NA,Yes,5,1,5,4,5,2
+22,Female,White,NA,Yes,2,4,5,2,2,5
+20,Male,White,NA,Yes,4,3,2,5,3,5
+19,Female,White,NA,Yes,4,2,5,1,4,2
+18,Female,White,NA,Yes,3,4,2,2,2,5
+21,Female,White,NA,Yes,5,2,5,1,3,3
+18,Male,White,NA,Yes,4,2,4,2,4,2
+18,Male,White,NA,Yes,4,2,4,2,4,2
+18,Male,White,NA,Yes,4,4,5,1,5,1
+19,Female,White,NA,Yes,4,4,4,3,4,4
+20,Male,White,NA,Yes,3,4,5,1,4,2
+19,Male,White,NA,Yes,5,3,5,2,4,2
+20,Male,White,NA,Yes,4,2,5,1,4,1
+19,Female,White,NA,Yes,4,4,2,4,4,3
+18,Male,White,NA,Yes,4,3,4,1,4,2
+18,Female,Multi-Racial,NA,Yes,4,2,5,1,4,1
+18,Female,White,NA,Yes,4,3,3,3,4,4
+22,Male,White,NA,Yes,5,3,4,2,5,2
+18,Female,White,NA,Yes,4,1,4,2,3,4
+18,Male,White,NA,Yes,4,3,3,2,4,2
+19,Male,White,NA,Yes,3,4,4,4,4,3
+22,Female,Multi-Racial,NA,Yes,4,3,4,2,3,3
+20,Male,Asian/Pacific Islander,NA,No,4,4,3,3,4,4
+19,Female,White,NA,Yes,5,4,4,3,3,5
+19,Male,White,NA,Yes,3,5,5,1,5,5
+20,Male,Asian/Pacific Islander,NA,Yes,5,2,5,1,5,1
+19,Female,White,NA,Yes,4,4,5,2,4,3
+22,Male,White,NA,Yes,4,2,3,2,5,2
+32,Male,White,NA,Yes,2,5,5,1,3,4
+19,Female,White,NA,Yes,2,4,4,3,5,3
+19,Male,White,NA,Yes,4,2,5,1,5,2
+18,Female,White,NA,Yes,2,5,4,1,3,3
+19,Male,White,NA,Yes,5,5,5,1,5,1
+20,Male,White,NA,Yes,3,3,5,1,4,3
+18,Female,White,NA,Yes,4,2,4,2,4,3
+19,Female,White,NA,Yes,4,2,4,1,4,2
+19,Female,White,NA,Yes,5,1,5,1,4,1
+18,Female,White,NA,Yes,4,3,4,3,2,4
+19,Male,White,NA,Yes,3,2,5,4,5,3
+21,Male,White,NA,Yes,5,1,4,3,5,2
+20,Male,White,NA,Yes,5,4,3,3,3,2
+20,Female,White,NA,Yes,3,5,2,4,4,3
+20,Female,White,NA,Yes,1,4,2,3,2,2
+19,Female,Latino/Hispanic,NA,Yes,4,3,3,3,4,3
+19,Female,White,NA,Yes,3,2,3,4,4,2
+20,Female,African American,NA,Yes,3,4,2,4,3,4
+18,Female,White,NA,Yes,4,3,4,3,4,2
+19,Female,White,NA,Yes,4,3,4,3,4,2
