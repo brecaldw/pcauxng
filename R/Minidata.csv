@@ -1,5 +1,5 @@
 Age,Gender,Ethnicity,Ethnicity_Elab,EnglishNativeLang,BPNSF_AS1,BPNSF_AF1,BPNSF_RS1,BPNSF_RF1,BPNSF_CS1,BPNSF_CF1
-20,Female,White,NA,Yes,4,2,4,2,4,1
+20,Female,White,NA,Yes,4,2,4,2,NA,1
 19,Female,White,NA,Yes,5,2,5,3,4,1
 20,Male,White,NA,Yes,3,4,4,2,3,3
 18,Female,White,NA,Yes,4,3,4,1,4,1

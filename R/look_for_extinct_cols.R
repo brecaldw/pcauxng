@@ -1,10 +1,8 @@
 
 look_for_extinct_cols <- function(a, b, extinction_vec){
-  
-  
-  tempA <- as.double(unlist(extinction_vec[a]))
-  tempB <- as.double(unlist(extinction_vec[b]))
-  
+
+  tempA <- 0
+  tempB <- 0
   if(tempA == 1){
     return(TRUE)
   }

@@ -5,13 +5,15 @@
 #
 # ******************************************************************************
 determine_data_type <- function(i, nominalvars, ordinalvars, continuousvars){
-  
+
+
+  type1 <- "nominal"
   if(i %in% nominalvars){
-    type <- "nominal"
+    type1 <- "nominal"
   } else if(i %in% ordinalvars){
-    type <- "ordinal"
+    type1 <- "ordinal"
   } else if(i %in% continuousvars){
-    type <- "continuous"
+    type1 <- "continuous"
   }
-  return(type)
+  return(type1)
 }
